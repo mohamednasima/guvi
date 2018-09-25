@@ -1,7 +1,8 @@
-a = int(input("Enter a number: "))
-if (a>0):
-  print("\nPositive")
-elif (a<0):
-  print("\nNegative")
-else:
-  print("\nZero")
+na=int(input())
+if(na>0):
+  print("Positive")
+  elif(ha==0):
+    print("zero")
+    else:
+      print("Negative")
+      
